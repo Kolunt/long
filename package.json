@@ -2,7 +2,7 @@
   "name": "long",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/Kolunt/long",
+  "homepage": "https://kolunt.github.io/long",
   "dependencies": {
     "@ant-design/icons": "^5.3.1",
     "@types/node": "^16.7.13",
