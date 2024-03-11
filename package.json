@@ -2,7 +2,7 @@
   "name": "long",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://kolunt.github.io/long",
+  "homepage": "https://long.medguru.studio",
   "dependencies": {
     "@ant-design/icons": "^5.3.1",
     "@types/node": "^16.7.13",
